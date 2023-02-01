@@ -1,0 +1,8 @@
+C:\Users\korisnik\Documents\DirectoryVježba\DirectoryVježba\bin\Debug\DirectoryVježba.exe.config
+C:\Users\korisnik\Documents\DirectoryVježba\DirectoryVježba\bin\Debug\DirectoryVježba.exe
+C:\Users\korisnik\Documents\DirectoryVježba\DirectoryVježba\bin\Debug\DirectoryVježba.pdb
+C:\Users\korisnik\Documents\DirectoryVježba\DirectoryVježba\obj\Debug\DirectoryVježba.csproj.AssemblyReference.cache
+C:\Users\korisnik\Documents\DirectoryVježba\DirectoryVježba\obj\Debug\DirectoryVježba.csproj.SuggestedBindingRedirects.cache
+C:\Users\korisnik\Documents\DirectoryVježba\DirectoryVježba\obj\Debug\DirectoryVježba.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\Documents\DirectoryVježba\DirectoryVježba\obj\Debug\DirectoryVježba.exe
+C:\Users\korisnik\Documents\DirectoryVježba\DirectoryVježba\obj\Debug\DirectoryVježba.pdb
